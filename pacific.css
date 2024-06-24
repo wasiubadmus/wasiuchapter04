@@ -1,22 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
-
-.logo-header {
-    background-image: url('background.jpg');
+    background-image: url('images/large-activities-image.jpg');
     background-size: cover;
     background-position: center;
-    padding: 20px;
-    text-align: center;
-    border-radius: 15px;
-    margin: 20px;
+    color: #fff; /* Adjust text color for readability */
 }
 
-.logo {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
+.content {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    padding: 20px;
+}
 }
