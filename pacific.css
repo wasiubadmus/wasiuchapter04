@@ -1,12 +1,35 @@
-body {
-    background-image: url('images/large-activities-image.jpg');
-    background-size: cover;
-    background-position: center;
-    color: #fff; /* Adjust text color for readability */
-}
-
-.content {
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
-    padding: 20px;
-}
-}
+body{
+    background-color : #FFFFFF;
+    color: #666666;
+    font-family: 'Georgia';font-size: 12px;
+   }
+   
+   #header{
+    background-color : #000033;
+    color: #FFFFFF
+   }
+   
+   h1{
+    line-height : 200%;
+   }
+   #links,#first,#sec,#third,#fourth
+   {
+    display : inline;
+    background-color: #90C7E3;
+    color: blue;
+   }
+   
+   h2{
+    color: #3399CC;
+   
+   }
+   
+   #resort{
+     color: #000033;
+     font-size: 1.2em;
+   }
+   
+   #footer{
+    font-style: italic;
+    font-size : 0.7em;
+   }
